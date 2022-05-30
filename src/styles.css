@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.table {
+  border-color: red !important;
+}
+
+.react-bootstrap-table-pagination .page-link {
+  border: none !important;
+}
